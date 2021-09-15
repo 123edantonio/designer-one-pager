@@ -1,0 +1,28 @@
+.topnav-right {
+  float: right;
+}
+.head {
+  color:black;
+  text-align:left;
+  padding-top:200px
+}
+.text {
+  color:gray;
+  text-align:left;
+}
+.about {
+  padding-top:50px;
+}
+.about-text {
+  text-align: center;
+}
+.about2 {
+  background-color: rgb(245, 245, 245);
+}
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding-bottom: 50px;
+}
